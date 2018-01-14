@@ -8,7 +8,7 @@ export default function Header() {
             </div>
             <p className="menu menu-flexbox">
                 <div className="menu-item">Heyo</div>
-                <div className="menu-item">Hoii</div>
+                <div className="menu-item ">Hoii</div>
             </p>
         </div>
     )
